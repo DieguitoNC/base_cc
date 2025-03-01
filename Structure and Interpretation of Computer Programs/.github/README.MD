@@ -15,6 +15,7 @@
 - V
 ### recursion equation
 - Uma equacao que define o proximo termo, baseado no termo anterior !
+
 ![Exemplo de equacao recursiva](../assets/exponential-growth-recursive.png)
 ### Lisp Interpreter
 - Uma maquina que carregava os processos descritos na linguagem LISP

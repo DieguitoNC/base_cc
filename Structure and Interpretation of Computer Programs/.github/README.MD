@@ -11,8 +11,7 @@
 - Expressoes simbolicas que vao descrever as tarefas que precisam ser executadas
 
 ## Programming in Lisp
-- Linguagem natural que utilizava de expressoes logicas com as equacoes rrecursivas
-- V
+- Linguagem natural que utilizava de expressoes logicas com as equacoes recursivas
 ### recursion equation
 - Uma equacao que define o proximo termo, baseado no termo anterior !
 
